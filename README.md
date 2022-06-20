@@ -5,9 +5,9 @@
 
 ---
 ### About me
-* 📚️ I am learning electrical and computer engineering @AASTU 
-* 🎯 I plan to make an impact in my community.
-* 💯️ I like to have fun hang out with my friends.
+* 📚️ I am learning electrical and computer engineering @AASTU and also a student @A2SV.
+* 🎯 I plan to make an impact in my community in the future.
+* 💯️ I am a passionately curious kind of person.
 
 <div align="center">
 

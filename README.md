@@ -1,11 +1,11 @@
 ### Hello! My name is Wubshet. 👋  
 <br>
-<div align="center">Electrical and Computer Engineer</div>
+<div align="center">Computer Engineer</div>
 <br>
 
 ---
 ### About me
-* 📚️ I am learning electrical and computer engineering @AASTU and also a student @A2SV.
+* 📚️ I am learning Electrical and Computer Engineering @AASTU and also a Student @A2SV.
 * 🎯 I plan to make an impact in my community in the future.
 * 💯️ I am a passionately curious kind of person.
 

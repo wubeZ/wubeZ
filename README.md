@@ -1,9 +1,10 @@
-### Hello! My name is Wubshet. 👋  
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Wube.  
 <br>
 <div align="center">Computer Engineer</div>
 <br>
+<img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
+<hr>
 
----
 ### About me
 * 🌱 I am learning Electrical and Computer Engineering at Addis Ababa Science and Technology University. 
 * 🌱 I am a Student Mentor at African to Silicon Valley.
@@ -11,10 +12,14 @@
 * 💯️ I am a passionately curious kind of person.
 * 📫 Reach me by at wubezeleke@gmail.com
 
-<div align="center">
-<br>
-
----
+<div>
+<h3> Lets Connect on LinkedIn!   
+<a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=silver" />
+</a>
+</h3>  
+<hr>  
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40" /> &nbsp;
@@ -29,15 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   <br>
-
----
-<h3> Lets Connect on LinkedIn! </h3>
-<a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=silver" />
-</a>
-<br>
- 
----
+<hr>
+  
 ### :fire: My Stats :
 <div align="center" >
   <a  href="https://github.com/wubeZ">

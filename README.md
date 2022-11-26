@@ -12,7 +12,7 @@
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <div align="center">
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40" /> &nbsp;
@@ -33,7 +33,8 @@
 </a>  
 
 <br>
-
+ 
+---
 <div align="center" >
   <a  href="https://github.com/wubeZ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />

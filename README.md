@@ -2,24 +2,30 @@
 <br>
 <div align="center">Computer Engineer</div>
 <br>
-
 ---
 ### About me
-* 📚️ I am learning Electrical and Computer Engineering @AASTU and also a Student @A2SV.
+* 🌱 I am learning Electrical and Computer Engineering at Addis Ababa Science and Technology University. 
+* 🌱 I am a Student Mentor at African to Silicon Valley.
 * 🎯 I plan to make an impact in my community in the future.
 * 💯️ I am a passionately curious kind of person.
+* 📫 Reach me by at wubezeleke@gmail.com
 
 <div align="center">
 
----
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-
----
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "40" height = "40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width:"40" height= "40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width:"40" height= "40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "40" height = "40" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+  <br>
 <h3> Lets Connect on LinkedIn! </h3>
 <a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=silver" />

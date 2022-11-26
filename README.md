@@ -12,6 +12,8 @@
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <div align="center">
+<br>
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -27,14 +29,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   <br>
+
+---
 <h3> Lets Connect on LinkedIn! </h3>
 <a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=silver" />
-</a>  
-
+</a>
 <br>
  
 ---
+### :fire: My Stats :
 <div align="center" >
   <a  href="https://github.com/wubeZ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />

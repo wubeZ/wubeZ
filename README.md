@@ -1,7 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Wube.  
-<br>
-<div align="center">Computer Engineer</div>
-<br>
+> __<div align="center">Computer Engineer</div>__
 <img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
 <hr>
 
@@ -13,7 +11,7 @@
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <div>
-<h3> Lets Connect on LinkedIn!   
+<h3> Lets Connect on LinkedIn!  
 <a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=silver" />
 </a>
@@ -33,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  <br>
 <hr>
   
 ### :fire: My Stats :
@@ -42,5 +39,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />
   </a>
 </div> 
-  <br>
-

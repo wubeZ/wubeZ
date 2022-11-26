@@ -2,6 +2,7 @@
 <br>
 <div align="center">Computer Engineer</div>
 <br>
+
 ---
 ### About me
 * 🌱 I am learning Electrical and Computer Engineering at Addis Ababa Science and Technology University. 

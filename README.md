@@ -5,10 +5,10 @@
 
 ### About me
 * 🌱 I am learning **Electrical and Computer Engineering** at Addis Ababa Science and Technology University. 
-* 🌱 I am a **Student Mentor** at African to Silicon Valley.
+* 🌱 I am a **Student Mentor** at Africa to Silicon Valley.
 * 🎯 I plan to make an impact in my community in the future.
 * 💯️ I am a passionately curious kind of person.
-* 💬 Ask me about **Data Structures, Coding, Python, Backend**
+* 💬 Ask me about **Data Structures, Problem Solving, Python, Backend**
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <h3> Lets Connect!</h3>

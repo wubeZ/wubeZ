@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Wube.  
-> __<div align="center">Computer Engineer</div>__
+> __<div align="center">Software Engineer</div>__
 <img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
 <hr>
 

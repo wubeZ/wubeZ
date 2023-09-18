@@ -1,14 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Wube.  
 > __<div align="center">Software Engineer</div>__
-<img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=blue" alt=""/>
-<hr>
+<img src="https://komarev.com/ghpvc/?username=wubeZ&style=flat-square&color=green" alt=""/>
 
 ### About me
-* 🌱 I am learning **Electrical and Computer Engineering** at Addis Ababa Science and Technology University. 
-* 🌱 I am a **Student Mentor** at Africa to Silicon Valley.
-* 🎯 I plan to make an impact in my community in the future.
-* 💯️ I am a passionately curious kind of person.
-* 💬 Ask me about **Data Structures, Problem Solving, Python, Backend**
+* 💻 I am a **Full-stack developer** with a specialty in **backend development** using Node.js. 
+* 🔭 I am looking for work with companies and people where I can contribute as much as I possibly can.
+* 🌱 Getting better Slowly.
+* 💯️ Passionately curious kind of person.
+* 💬 Ask me about **Data Structures, Problem Solving, Python, Backend, Frontend**
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <h3> Lets Connect!</h3>
@@ -19,13 +18,14 @@
 <hr>  
   
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+
+<div align="center" style="background-color: blue;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width = "40" height = "40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" **alt="Django" width = "40" height = "40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width = "40" height = "40" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width:"40" height= "40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="ExpressJS" **alt="ExpressJS" width:"40" height= "40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width:"40" height= "40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width = "40" height = "40" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="ExpressJS" **alt="ExpressJS" width:"40" height= "40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="NextJS" width:"40" height= "40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" **alt="C" width = "40" height = "40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

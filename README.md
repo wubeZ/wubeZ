@@ -39,7 +39,12 @@
 ### :fire: My Stats :
 <div align="center" >
   <a  href="https://github.com/wubeZ">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />
   </a>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wubeZ&" alt="wubeZ" /></p>
+</div>
+<br/>
+<div align="center" >
+  <a  href="https://github.com/wubeZ">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wubeZ&theme=blue-green" alt="wubeZ" />
+  </a>
 </div> 

@@ -40,7 +40,8 @@
 ### :fire: My Stats :
 <div align="center" >
   <a  href="https://github.com/wubeZ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wubeZ&theme=blue-green&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubeZ&hide_progress=true&langs_count=10" />
   </a>
 </div>
 <br/>

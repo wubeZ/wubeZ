@@ -12,7 +12,7 @@
 
 <h3> Lets Connect!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Wubshet Zeleke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wubshet-zeleke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Wubshet Zeleke" height="30" width="40" /></a>
 <a href="https://leetcode.com/Wubshet/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" title="Leetcode" alt="Wubshet" height="30" width="40" /></a>
 </p>
 <hr>  

@@ -1,4 +1,3 @@
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://wubshetzeleke.vercel.app">Wubshet Zeleke</a></b>
@@ -8,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Wubshet+Zeleke">「 Google Me 」</a>
+    <a target="_blank" href="https://www.google.com/search?q=Wubshet+Zeleke">「 Google Me 」</a>
     <br>
     <br>
     「 <b>Software Engineer</b> 」
@@ -69,13 +68,5 @@
 <div align="center" >
   <a  href="https://github.com/wubeZ">
     <img align="center" src="https://readmestats.999857.xyz/api?username=wubeZ&theme=blue-green&count_private=true&show_icons=true&hide=stars" />
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubeZ&theme=blue-green&hide_progress=true&langs_count=10" /> -->
   </a>
 </div>
-<br/>
-<!-- <div align="center" >
-  <a  href="https://github.com/wubeZ">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wubeZ&theme=blue-green" alt="wubeZ" />
-  </a>
-</div> 
- -->

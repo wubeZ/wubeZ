@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://wubshetzeleke.vercel.app">Wubshet Zeleke</a></b>
+                <b><a target="_blank" href="https://wubshetzeleke.tech">Wubshet Zeleke</a></b>
         </samp>
 </h3>
 

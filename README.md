@@ -23,15 +23,17 @@
 * 💻 I am a **Full-stack Engineer** with a specialty in **backend development** using Node.js(Express.js). 
 * 🔭 I am looking for work with companies and people where I can contribute as much as I possibly can.
 * 💯️ Passionately curious kind of person.
+* ✨ I occasionally write on [Medium](https://medium.com/@wubshet).
 * 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Python, Backend, Frontend**
 * 📫 Reach me by at wubezeleke@gmail.com
 
 <h3> Lets Connect!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wubshet-zeleke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Wubshet Zeleke" height="30" width="40" /></a>
-<a href="https://leetcode.com/Wubshet/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" title="Leetcode" alt="Wubshet" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/wube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" title="Codeforces" alt="Wube" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/wubezeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wubezeleke" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wubshet-zeleke" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Wubshet Zeleke" height="30" width="40" /></a>
+<a href="https://medium.com/@wubshet" target="_blank"> <img align='center' height='30' width='40' title='Medium' alt='wubshet' src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg"> </a>
+<a href="https://leetcode.com/Wubshet/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" title="Leetcode" alt="Wubshet" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/wube/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" title="Codeforces" alt="Wube" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/wubezeleke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wubezeleke" height="30" width="40" /></a>
 </p>
 <hr>  
   

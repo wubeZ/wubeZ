@@ -20,7 +20,7 @@
 
 ### About me
 * 🌱 Getting better Slowly.
-* 💻 I am a **Full-stack Engineer** with a specialty in **backend development** using Node.js(Express.js). 
+* 💻 I am a **Full-stack Engineer** with a specialty in **backend development**. 
 * 🔭 I am looking for work with companies and people where I can contribute as much as I possibly can.
 * 💯️ Passionately curious kind of person.
 * ✨ I occasionally write on [Medium](https://medium.com/@wubshet).

@@ -62,6 +62,7 @@ I’m excited to collaborate on challenging projects and contribute to building 
 ---
 
 ## 📫 Let's Connect
+- [wubezeleke@gmail.com](mailto:wubezeleke@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/wubshet-zeleke)
 - [Medium](https://medium.com/@wubshet)
 - [LeetCode](https://leetcode.com/Wubshet/)

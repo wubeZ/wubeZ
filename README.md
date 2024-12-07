@@ -27,7 +27,7 @@ I’m excited to collaborate on challenging projects and contribute to building 
 2. **Backend Development**  
    - **Tools:** Django, FastAPI, Node.js  
    - **What I Do:**  
-     - Designed and deployed APIs that handled 10,000+ requests/second while reducing latency by 25%.  
+     - Design and implement RESTful APIs with scalability in mind.
      - Write clean, maintainable code for robust backend systems.  
      - Handle business logic, authentication, and server-side optimizations.  
 

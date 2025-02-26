@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wubshet Zeleke</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Backend Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Backend Developer </h3>
 
 ---
 
@@ -20,7 +20,7 @@ I’m excited to collaborate on challenging projects and contribute to building 
 ## 🛠️ How I Build and Deliver
 
 1. **Frontend Development**  
-   - **Tools:** React, Next.js, TailwindCSS  
+   - **Tools:** React, Next.js, Svelte, Sveltekit, TailwindCSS  
    - **What I Do:**  
      - Build responsive, user-friendly UIs with modern frameworks.    
 
